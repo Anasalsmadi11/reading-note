@@ -1,2 +1,1 @@
 # reading-note
-hello
