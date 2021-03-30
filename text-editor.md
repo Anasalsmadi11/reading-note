@@ -20,4 +20,3 @@ https://anasalsmadi11.github.io/reading-note/
 *quotes: he first approach involves using quotes around the entire item and you may use single or double quotes*
 
 *hidden files : if the file or directory name begins with full stop it is considered as a hidden file  and they may be hidden for variety reasons*
-
