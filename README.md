@@ -2,7 +2,7 @@
 
 
 *Hello there!.*
-*My name is **Anas Alsmadi** I'm **civil engineer**, I graduated from **Zarqa University** tow years ago and I'm single withe 26 years old my mother country is syria and currently live in jordan.
+*My name is **Anas Alsmadi** I'm **civil engineer**, I graduated from **Zarqa University** tow years ago and I'm single withe 26 years old my mother country is syria and currently live in jordan.*
 
 
 |Col 1    |     Col 2|
