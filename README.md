@@ -19,4 +19,4 @@
 |----|------|
 |day 1|[class-01](class-01)|
 |day 2|[class-02](class-02)|
-|day 3||
+|day 3|[class-03.md](class-03.md)|
