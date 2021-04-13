@@ -95,3 +95,18 @@ operating systems allow users to adjust the resolution of their screens.
 Because screen sizes and display resolutions vary so much, web 
 designers often try to create pages of around 960-1000 pixels wide 
 (since most users will be able to see designs this wide on their screens)
+
+# Pair programming
+
+Iterative loops. Code reviews. Fast feedback. Error checking and linting. These are software engineering practices that have proven to dramatically improve the quality of code developers produce.
+
+While there are many different styles, pair programming commonly involves two roles: the Driver and the Navigator. The Driver is the programmer who is typing and the only one whose hands are on the keyboard.
+
+## why pair program?
+
+1. Greater efficiency
+2. Engaged collaboration
+3. Learning from fellow students
+4. Social skills
+5. Job interview readiness
+6. Work environment readiness
