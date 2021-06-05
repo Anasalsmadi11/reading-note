@@ -19,7 +19,7 @@ involved. Structure helps readers
 understand the stories in the 
 newspaper.*
 
-![image](images/image.PNG)
+![image](img/Capture.PNG)
 
 
 ### Body
@@ -94,7 +94,7 @@ these would not be counted as
 major navigational blocks and 
 therefore should not sit inside a nav element*
 
-<img src="images/adcm.PNG">
+<img src="img/Capture2.PNG">
 
 ## Process & Design
 
