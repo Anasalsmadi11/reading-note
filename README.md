@@ -18,7 +18,7 @@
 |code201||
 |----|------|
 |day 1|[class-01](class-01)|
-|day 2|[class-02](class-02)|
+|day 2|[class-02.md](class-02.md)|
 |day 3|[class-03.md](class-03.md)|
 |day 4|[class-04.md](class-04.md)|
 |day 5|[class-05.md](class-05.md)|
