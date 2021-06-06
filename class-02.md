@@ -18,7 +18,7 @@ meaning of acronyms, and so on*
 
 ## Headings
 
-<img src='images/Capture3.PNG'>
+<img src = "img/pic 1.PNG">
 
 *HTML has six "levels" of 
 headings:*
@@ -33,7 +33,7 @@ on..*
 
 ## Paragraphs
 
-<img src='images/Capture4.PNG'>
+<img src='img/pic 2.PNG'>
 
 *To create a paragraph, surround 
 the words that make up the 
@@ -127,7 +127,7 @@ headings should be in a blue, italic, Times typeface.*
 imagine that there is an invisible box around 
 every HTML element.*
 
-![image](images/Capture5.PNG)
+![image](img/pic3.PNG)
 
 ## Using Internal CSS
 
