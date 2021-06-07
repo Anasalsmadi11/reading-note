@@ -11,7 +11,7 @@ between an opening **li** tag
 and a closing **li**
 
 
-The unordered list is created 
+The unordered list is created  
 with the **ul** element.
 
 and the same Each item in the list is placed 
@@ -25,7 +25,7 @@ the **dl** element and usually
 consists of a series of terms and 
 their definitions.
 
-**dt** This is used to contain the term 
+**dt** This is used to contain the trm 
 being defined 
 
 **dd** This is used to contain the 
