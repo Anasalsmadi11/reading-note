@@ -1,6 +1,8 @@
-# Links
+<h1 style='color:red; background-color:blue'>Links </h1>
 
-Links are created using the **a** element. Users can click on anything 
+The **a** tag defines a hyperlink, which is used to link from one page to another.
+
+
 between the opening **a** tag and the closing **a** tag.The text between the opening tag and closing tag 
 is known as link text.
 link text should explain where visitors will be taken if they click on it
