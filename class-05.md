@@ -1,12 +1,6 @@
 # Images
 
-There are several things to consider when selecting and 
-preparing images for your site, but taking time to get them 
-right will make it look more attractive and professional.
-
-A picture can say a thousand words, and great 
-images help make the difference between an 
-average-looking site and a really engaging one.
+images can be easily inserted at any section in HTML page . to insert in an HTML page , we use the img tag. 
 
 ## Adding Images
 
@@ -17,13 +11,11 @@ element (which means there is
 no closing tag).
 
 **src**
-This tells the browser where 
-it can find the image file.
+this tells the browser where it can find the image file
 
 **alt**
-This provides a text description 
-of the image which describes the 
-image if you cannot see it.
+Tis prvide a text This description 
+of the image that describes the image if you can not see it.
 
 ## Height & Width of Images
 
@@ -32,8 +24,7 @@ This specifies the height of the
 image in pixels.
 
 ### width
-This specifies the width of the 
-image in pixels.
+This specifies the width of the image in pixeles.
 
 ## Aligning Images Horizontally
 left:
@@ -52,15 +43,11 @@ left-hand side).
 
 top:
 
-This aligns the first line of the 
-surrounding text with the top of 
-the image.
+This aligns the first line of the surrounding text with the top of the image .
 
 bottom:
 
-This aligns the first line of the 
-surrounding text with the bottom 
-of the image.
+This aligns the first line of the sueeonding text with the bottom of the image .
 
 
 # Color
@@ -68,9 +55,7 @@ of the image.
 ## Foreground Color
 
 ### rgb values
-These express colors in terms 
-of how much red, green and 
-blue are used to make it up. For 
+These express collors in terms of how much red, green and blue are used to make it up. For 
 example: rgb(100,100,90)
 
 ## hex codes
