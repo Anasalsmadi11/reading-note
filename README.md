@@ -22,3 +22,9 @@
 |day 3|[class-03.md](class-03.md)|
 |day 4|[class-04.md](class-04.md)|
 |day 5|[class-05.md](class-05.md)|
+|day 6|[class-06.md](class-06.md)|
+|day 7|[class-07.md](class-07.md)|
+|day 8|[class-08.md](class-08.md)|
+|day 9|[class-09.md](class-09.md)|
+|day 10|[class-10.md](class-10.md)|
+|day 11|[class-11.md](class-11.md)|
