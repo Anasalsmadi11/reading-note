@@ -30,6 +30,7 @@
 |day 11|[class-11.md](class-11.md)|
 |day 12|[class-12.md](class-12.md)|
 |day 13|[class-13.md](class-13.md)|
+|day 13-01|[class-13-01.md](class-13-01.md)|
 |day 14|[class-14.md](class-14.md)|
 |day 15|[class-15.md](class-15.md)|
 |day 16|[class-16.md](class-16.md)|

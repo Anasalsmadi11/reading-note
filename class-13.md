@@ -37,3 +37,7 @@ If multiple properties need to be transitioned they may be comma separated withi
 The duration in which a transition takes place is set using the transition-duration property. The value of this property can be set using general timing values, including seconds (s) and milliseconds (ms).
 
 When transitioning multiple properties you can set multiple durations, one for each property. As with the transition-property property value, multiple durations can be declared using comma separated values. The order of these values when identifying individual properties and durations does matter
+
+
+
+
